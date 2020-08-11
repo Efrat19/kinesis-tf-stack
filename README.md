@@ -3,7 +3,7 @@
 Full Event Distributing stack
 [chart](https://app.lucidchart.com/documents/edit/618eac67-4a9a-4d10-a21c-cd3c95ae50cb/0_0)
 
-<img src="./chart.png" height="500"> 
+<img src="./chart.png" height="100"> 
 
 ## Functionality:
 - Stream recent-past events from the DB to a centralized event-bus
