@@ -19,6 +19,6 @@ variable "app_name" {
 }
 
 variable "account_id" {
-  default = "572995054717"
+  default = "your_account_id"
   description = "aws account id"
 }
